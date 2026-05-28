@@ -1,0 +1,6 @@
+{
+  "name": "OmniGate Commerce",
+  "description": "An automated e-commerce manager and AI agent swarm for dropshipping, affiliate marketing, and real-time sales telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
