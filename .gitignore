@@ -16,3 +16,10 @@
 local.properties
 .env
 debug.keystore
+
+# Node.js / VitePress
+node_modules/
+.vitepress/dist/
+.vitepress/cache/
+.vitepress/.temp/
+*.local
