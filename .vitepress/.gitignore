@@ -1,0 +1,7 @@
+# VitePress build output
+dist
+cache
+.temp
+
+# Development files
+*.local
